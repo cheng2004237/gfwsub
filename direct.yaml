@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN-SUFFIX,v4.plex.tv
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,rocki.top
+  - DOMAIN-SUFFIX,sosimhk.com
+  - DOMAIN-SUFFIX,gsxt.gov.cn
+  - DOMAIN,evisa.imigrasi.go.id
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-KEYWORD,onedrive
+  - IP-CIDR,156.246.92.61/32,no-resolve
+  - DOMAIN-SUFFIX,olddrivers.cc
+  - DOMAIN-SUFFIX,garmin.cn
+  - IP-CIDR,170.33.0.0/16,no-resolve
+

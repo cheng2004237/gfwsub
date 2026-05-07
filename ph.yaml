@@ -1,0 +1,38 @@
+payload:
+  - DOMAIN-SUFFIX,v2ex.com
+   - DOMAIN-KEYWORD,v2ex
+  - DOMAIN-KEYWORD,hdsky
+  - DOMAIN-KEYWORD,duolingo
+  - DOMAIN-SUFFIX,ocbc.com
+  - DOMAIN-KEYWORD,airdata
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,sms-activate.org
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-KEYWORD,adobe
+  - DOMAIN-SUFFIX,rutor.is
+  - DOMAIN-SUFFIX,garmin.cn
+  - DOMAIN-KEYWORD,yandex
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,agoda.com
+  - DOMAIN-SUFFIX,booking.com
+  - DOMAIN-SUFFIX,booking.cn
+  - DOMAIN-KEYWORD,notion
+  - DOMAIN-KEYWORD,mapbox
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,clients.plex.tv
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,bambulab.com
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,olddrivers.cc
+
+
+
+
+
+  

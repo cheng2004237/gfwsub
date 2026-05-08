@@ -1,0 +1,20 @@
+
+nikki-rules:
+- RULE-SET,wechat,DIRECT
+- RULE-SET,xiaomi,DIRECT
+- RULE-SET,direct,DIRECT
+- RULE-SET,apple,DIRECT
+- RULE-SET,apple-domain,DIRECT
+- RULE-SET,EA,DIRECT
+- RULE-SET,Steam,DIRECT
+- RULE-SET,AppleStore,DIRECT
+- "RULE-SET,ph,HK"
+- "RULE-SET,google,JP"
+- "RULE-SET,oky,JP"
+- "RULE-SET,biance,JP"
+- RULE-SET,Mircrosoft,DIRECT
+- "RULE-SET,YouTube,JP"
+- "RULE-SET,adobe,HK"
+- "RULE-SET,openAI,US"
+- "RULE-SET,us,US"
+- RULE-SET,logi,DIRECT

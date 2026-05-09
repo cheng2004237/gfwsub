@@ -4,7 +4,6 @@ payload:
   - DOMAIN-KEYWORD,duolingo
   - DOMAIN-KEYWORD,airdata
   - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,sms-activate.org
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutor.is
   - DOMAIN-KEYWORD,yandex

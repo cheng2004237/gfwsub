@@ -10,4 +10,5 @@ payload:
   - DOMAIN-KEYWORD,onedrive
   - IP-CIDR,156.246.92.61/32,no-resolve
   - IP-CIDR,170.33.0.0/16,no-resolve
+  - IP-CIDR,23.26.204.126/32,no-resolve
 

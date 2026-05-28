@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,api-ytoo.com
+  - DOMAIN-SUFFIX,y-too.net
   - DOMAIN-SUFFIX,v4.plex.tv
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,rocki.top

@@ -24,6 +24,8 @@ payload:
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,y-too.net
   - DOMAIN-SUFFIX,olddrivers.cc
+  - IP-CIDR,23.26.204.126/32,no-resolve
+  - IP-CIDR,156.246.92.61/32,no-resolve
 
 
 
